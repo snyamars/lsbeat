@@ -1,6 +1,6 @@
 # Lsbeat
 
-Welcome to Lsbeat.
+Welcome to Lsbeat. This is a test check
 
 Ensure that this folder is at the following location:
 `${GOPATH}/github.com/kimjmin`
